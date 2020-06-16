@@ -1,2 +1,2 @@
 # finalCSSCourseProject
-rewrite Instagram Interface with CSS and HTML
+rewrite Blogger Home page with CSS and HTML
